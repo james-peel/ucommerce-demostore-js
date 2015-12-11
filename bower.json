@@ -1,0 +1,23 @@
+{
+    "name": "ucommerce-demo-js",
+    "main": [
+        "demostore/uCommerce.demostore.cart.js",
+        "demostore/uCommerce.demostore.checkout.js",
+        "demostore/uCommerce.demostore.js",
+        "demostore/uCommerce.demostore.productpage.js",
+        "demostore/uCommerce.jQuery.js",
+        "demostore/uCommerce.ServiceStack.js"
+    ],
+    "version": "6.9.0.15323",
+    "homepage": "http://www.ucommerce.net/",
+    "authors": [
+        "uCommerce Aps"
+    ],
+    "description": ".NET ecommerce platform",
+    "keywords": [
+        "ecommerce"
+    ],
+    "license": "MIT",
+    "ignore": [],
+    "dependencies": {}
+}
